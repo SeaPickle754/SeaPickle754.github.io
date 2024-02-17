@@ -1,0 +1,2 @@
+##WARNING: THIS PROJECT DOES NOT CLAIM TO PROVIDE PROFESSIONAL MEDICAL OR MENTAL HELP IN ANY WAY.##
+This project is only intended as a quick excercize, on request of a friend. If you need serious mental or physical help, this project is not for you.
